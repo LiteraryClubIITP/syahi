@@ -179,7 +179,7 @@ a:focus {
 }
 
 .white-text {
-  color: #31326f;
+  color: #fff;
 }
 
 .relative-box {
@@ -10383,7 +10383,7 @@ section.our-facts h2 {
 .count-title {
   font-size: 18px;
   font-weight: 500;
-  color: #31326f;
+  color: #fff;
   letter-spacing: 0.5px;
 }
 .bannerLinks-details .icon {
