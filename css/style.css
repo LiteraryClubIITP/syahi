@@ -84,8 +84,8 @@ a:focus {
 .btn.solid-btn:focus,
 .btn.solid-btn:hover {
   background: transparent;
-  border-color: #13527c;
-  color: #13527c;
+  border-color: #31326f;
+  color: #31326f;
   box-shadow: none;
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
@@ -294,7 +294,7 @@ nav.navbar ul.navbar-nav li a.nav-link {
   position: relative;
 }
 nav.navbar ul.navbar-nav li a.nav-link:hover {
-  color: #76aeae;
+  color: #ffc93c;
 }
 nav.navbar ul.navbar-nav .dropdown:hover .dropdown-menu {
   display: block;
