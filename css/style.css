@@ -316,12 +316,12 @@ nav.navbar ul.navbar-nav ul.dropdown-menu {
 }
 nav.navbar ul.navbar-nav ul.dropdown-menu:before {
   content: "";
-  position: absolute;
+  position: relative;
   width: 0;
   height: 0;
   top: 0;
   z-index: 2222;
-  right: 0;
+  right: 5rem;
   box-sizing: border-box;
   border: 0.7rem solid #ffffff;
   border-color: #ffffff #ffffff transparent transparent;
