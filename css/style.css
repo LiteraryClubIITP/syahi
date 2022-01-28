@@ -321,7 +321,7 @@ nav.navbar ul.navbar-nav ul.dropdown-menu:before {
   height: 0;
   top: 0;
   z-index: 2222;
-  right: 5rem;
+  right: 0;
   box-sizing: border-box;
   border: 0.7rem solid #ffffff;
   border-color: #ffffff #ffffff transparent transparent;
@@ -359,7 +359,7 @@ nav.navbar
   li.dropdown-item
   .dropdown-menu::before {
   top: 25px;
-  right: 0;
+  right: auto;
   left: -1rem;
   border-color: #ffffff transparent transparent #ffffff;
   box-shadow: -0.2rem -0.2rem 0.2rem 0 rgba(0, 0, 0, 0.05);
