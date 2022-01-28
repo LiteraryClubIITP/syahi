@@ -74,7 +74,7 @@ a:focus {
   -webkit-box-shadow: 0 0.2rem 0.6rem rgba(0, 0, 0, 0.2);
 }
 .btn.solid-btn {
-  background: #13527c;
+  background: #ffc93c;
   color: #a3d9d8;
   text-transform: uppercase;
   box-shadow: 0.4rem 0 1rem rgba(0, 0, 0, 0.18);
