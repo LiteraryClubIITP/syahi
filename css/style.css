@@ -136,7 +136,7 @@ a:focus {
   font-weight: 600;
   margin-bottom: 0;
   padding: 0 5rem;
-  color: #13527c;
+  color: #31326f;
   position: relative;
   line-height: 1;
 }
@@ -179,7 +179,7 @@ a:focus {
 }
 
 .white-text {
-  color: #ffffff;
+  color: #31326f;
 }
 
 .relative-box {
@@ -340,7 +340,7 @@ nav.navbar ul.navbar-nav ul.dropdown-menu li.dropdown-item:active {
   color: #0d6d8c;
 }
 nav.navbar ul.navbar-nav ul.dropdown-menu li.dropdown-item a.nav-link {
-  color: #13527c;
+  color: #31326f;
   padding: 1rem 1.2rem;
   text-transform: none;
   border-bottom: 0.1rem solid #eeeeee;
@@ -6135,7 +6135,7 @@ a#hindi-btn:hover {
 .fixed-social-icons ul {
   margin: 0;
   padding: 0;
-  background-color: #13527c;
+  background-color: #31326f;
   padding: 23px 8px 0;
   list-style: none;
   border-radius: 4px 0 0 4px;
@@ -6467,7 +6467,7 @@ a#hindi-btn:hover {
   background-color: #f1f6f9;
   width: 75%;
   margin: 0 auto;
-  color: #065974;
+  color: #31326f;
   margin: 2px auto 0;
   padding: 10px;
   font-size: 15px;
@@ -10376,14 +10376,14 @@ section.our-facts h2 {
 
 .count-digit {
   margin: 5px 0px;
-  color: #f5a425;
+  color: #ffc93c;
   font-weight: 700;
   font-size: 36px;
 }
 .count-title {
   font-size: 18px;
   font-weight: 500;
-  color: #fff;
+  color: #31326f;
   letter-spacing: 0.5px;
 }
 .bannerLinks-details .icon {
