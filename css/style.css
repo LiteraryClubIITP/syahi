@@ -1690,7 +1690,7 @@ footer.footer {
   background: #ffc93c;
 }
 footer.footer h4 {
-  color: #76aeae;
+  color: #31326f;
   text-transform: uppercase;
   font-weight: 400;
   letter-spacing: 0.1rem;
@@ -1704,7 +1704,7 @@ footer.footer ul {
   line-height: 2;
 }
 footer.footer ul li a {
-  color: #a3d9d8;
+  color: #31326f;
   transition: 0.4s linear;
   -moz-transition: 0.4s linear;
   -webkit-transition: 0.4s linear;
