@@ -9001,7 +9001,7 @@ a#hindi-btn:hover {
     -moz-transform: translateX(-100%);
     -webkit-transform: translateX(-100%);
     background: #13527c;
-    background: -moz-linear-gradient(left, #31326f 0%, #0d6d8c 100%);
+    background: -moz-linear-gradient(left, #fff 0%, #fff 100%);
     background: -webkit-linear-gradient(left, #31326f 0%, #0d6d8c 100%);
     background: linear-gradient(to right, #31326f 0%, #0d6d8c 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$dark-blue-color', endColorstr='$blue-color',GradientType=1 );
