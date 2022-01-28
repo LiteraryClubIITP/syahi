@@ -115,7 +115,7 @@ a:focus {
   padding-bottom: 4rem;
   margin-bottom: 0;
   font-weight: 700;
-  color: #13527c;
+  color: #31326f;
 }
 
 .page-heading {
@@ -642,7 +642,7 @@ nav.navbar ul.buttons-nav li.nav-item.search-btn i.im {
 }
 .nav-mobile-devices .swiper-menu .swiper-slide a {
   font-size: 1.2rem;
-  color: #13527c;
+  color: #31326f;
   border-radius: 0.4rem;
   padding: 1rem 0.8rem;
   display: block;
@@ -661,7 +661,7 @@ nav.navbar ul.buttons-nav li.nav-item.search-btn i.im {
   text-align: center;
   margin-bottom: 1rem;
   font-weight: 400;
-  color: #13527c;
+  color: #31326f;
   text-transform: uppercase;
 }
 
@@ -9001,9 +9001,9 @@ a#hindi-btn:hover {
     -moz-transform: translateX(-100%);
     -webkit-transform: translateX(-100%);
     background: #13527c;
-    background: -moz-linear-gradient(left, #13527c 0%, #0d6d8c 100%);
-    background: -webkit-linear-gradient(left, #13527c 0%, #0d6d8c 100%);
-    background: linear-gradient(to right, #13527c 0%, #0d6d8c 100%);
+    background: -moz-linear-gradient(left, #31326f 0%, #0d6d8c 100%);
+    background: -webkit-linear-gradient(left, #31326f 0%, #0d6d8c 100%);
+    background: linear-gradient(to right, #31326f 0%, #0d6d8c 100%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$dark-blue-color', endColorstr='$blue-color',GradientType=1 );
   }
   .nav-mobile-devices .mobile-collapsable-menu .navbar-brand {
