@@ -917,7 +917,7 @@ nav.navbar ul.buttons-nav li.nav-item.search-btn i.im {
 
 /*----------CTA Section----------*/
 .cta-section {
-  background: url(../images/Writing-and-Outlining.jpg);
+  background: url(../images/book-library-with-open-textbook.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -10341,7 +10341,7 @@ a#hindi-btn:hover {
   transition-timing-function: ease;
 }
 section.intro-sec {
-  background-image: url(../images/aaron-burden-xG8IQMqMITM-unsplash.jpg);
+  background-image: url(../images/henry-be-lc7xcWebECc-unsplash.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -10349,7 +10349,7 @@ section.intro-sec {
   padding: 60px 0px 60px 0px;
 }
 section.our-facts {
-  background-image: url(https://jaipurliteraturefestival.org/jlf-images/bg-one.png);
+  background-image: url(../images/jordan-madrid-yTdb-7MoyvM-unsplash.jpg);
   background-color: #343a40;
   background-position: center center;
   background-attachment: fixed;
