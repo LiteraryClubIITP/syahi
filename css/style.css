@@ -679,8 +679,8 @@ nav.navbar ul.buttons-nav li.nav-item.search-btn i.im {
   transform: translateY(-50%);
   -moz-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
-  background: #13527c;
-  color: #ffffff;
+  background: #ffc93c;
+  color: transparent;
   width: 3.6rem;
   height: 4rem;
   font-size: 2rem;
@@ -702,7 +702,7 @@ nav.navbar ul.buttons-nav li.nav-item.search-btn i.im {
 }
 .slider-content-wrapper .slider-content {
   /*background: #a3d9d8;*/
-  color: #13527c;
+  color: #31326f;
   border-radius: 0.6rem;
   padding: 10rem 5rem;
   text-align: center;
