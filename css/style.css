@@ -260,7 +260,7 @@ a:focus {
   width: 50px;
 }
 
-.dropdown {
+.nav-item.dropdown {
   margin-left: 4%;
   margin-right: 4%;
   width: max-content;
@@ -316,7 +316,7 @@ nav.navbar ul.navbar-nav ul.dropdown-menu {
 }
 nav.navbar ul.navbar-nav ul.dropdown-menu:before {
   content: "";
-  position: relative;
+  position: absolute;
   width: 0;
   height: 0;
   top: 0;
@@ -1688,6 +1688,7 @@ nav.navbar ul.buttons-nav li.nav-item.search-btn i.im {
 /*----------Footer----------*/
 footer.footer {
   background: #ffc93c;
+  margin-top: 30px;
 }
 footer.footer h4 {
   color: #31326f;
@@ -3711,7 +3712,7 @@ ol.long-listing > li {
 }
 .single-speakers-box .speaker-content h3 {
   text-transform: uppercase;
-  color: #0d6d8c;
+  color: #31326f;
   font-size: 2rem;
   margin-bottom: 0;
 }
@@ -3737,7 +3738,7 @@ ol.long-listing > li {
 .single-speakers-box .share-icons li a {
   width: 4rem;
   display: block;
-  color: #13527c;
+  color: #31326f;
 }
 .single-speakers-box .share-icons li a:hover {
   color: #0d6d8c;
@@ -3764,7 +3765,7 @@ ol.long-listing > li {
   display: inline-block;
   width: 3.5rem;
   height: 3.5rem;
-  background: #0d6d8c;
+  background: #31326f;
   color: #ffffff;
   font-size: 2.2rem;
   margin-right: 1rem;
@@ -10491,11 +10492,24 @@ section.our-facts h2 {
 .contact-form .input-text:focus {
   outline: none;
 }
-.contact-form .input-text:focus + .label,
-.contact-form .input-text.not-empty + .label {
+.contact-form .input-text:focus + .label
+ {
   -webkit-transform: translateY(-24px);
   transform: translateY(-24px);
 }
+
+.contact-form .input-text:valid + .label{
+  -webkit-transform: translateY(-24px);
+  transform: translateY(-24px);
+}
+/* .contact-form .input-text:placeholder-shown + .label{
+  -webkit-transform: translateY(24px);
+  transform: translateY(24px);
+}
+.contact-form .input-text:not(:placeholder-shown) + .label{
+  -webkit-transform: translateY(-24px);
+  transform: translateY(-24px);
+} */
 .contact-form .label {
   position: absolute;
   left: 20px;
@@ -10588,9 +10602,11 @@ section.our-facts h2 {
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  /* height: 513px; */
 }
 
 .team-container {
+  margin-top: 10px;
   padding: 0 16px;
 }
 
