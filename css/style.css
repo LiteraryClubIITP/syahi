@@ -10636,3 +10636,24 @@ section.our-facts h2 {
 .team-button:hover {
   background-color: #555;
 }
+
+/* button styles */
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  left: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: #31326f;
+  color: #ffc93c;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#myBtn:hover {
+  background-color: #555;
+}
